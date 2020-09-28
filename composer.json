@@ -1,0 +1,12 @@
+{
+    "name": "rorymcdaniel/php-cs-fixer-config",
+    "description": "PSR12 config for php-cs-fixer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rory McDaniel",
+            "email": "hoyer801@gmail.com"
+        }
+    ],
+    "require": {}
+}
